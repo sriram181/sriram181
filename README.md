@@ -1,6 +1,6 @@
-## Sriram Ravi's Github <a href="https://www.linkedin.com/in/sriram-ravi" target="_blank"><img src="https://github.com/sriram181/sriram181/tree/main/gifs/linkedin.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## Sriram Ravi's Github <a href="https://www.linkedin.com/in/sriram-ravi" target="_blank"><img src="https://github.com/sriram181/sriram181/blob/main/gifs/linkedin.svg" width="22px" alt="LinkedIn"></a>
 
-### Hello there!<img src="https://github.com/sriram181/sriram181/tree/main/gifs/Hi.gif" width="30px">
+### Hello there!<img src="https://github.com/sriram181/sriram181/blob/main/gifs/Hi.gif" width="30px">
 
 I am Sriram Ravi and am interested in the field of embedded systems and computer networks.
 
