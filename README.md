@@ -1,21 +1,19 @@
-### Hello there!
+##### Sriram Ravi's Github <a href="https://www.linkedin.com/in/sriram-ravi" target="_blank"><img src="https://github.com/sriram181/sriram181/tree/main/gifs/linkedin.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-I am Sriram Ravi and I work in the field of embedded systems. I like playing with sockets and networks.
+#### Hello there!<img src="https://github.com/sriram181/sriram181/tree/main/gifs/Hi.gif" width="30px">
+
+I am Sriram Ravi and am interested in the field of embedded systems and computer networks.
+
+I like working with people from different streams to create technology. Passionate about networking, IOT (Internet of Things).
+
+## My work revolves around:
+    --* Linux system programming,
+    --* Linux device drivers,
+    --* Wifi firmware,
+    --* Embedded systems programming.
 
 Currently, I am doing my Masters specialising in Computer Engineering, Embedded systems.
 
-
-<!--
-**sriram181/sriram181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me through:
+-- <a href="mailto:ravisriram21@gmail.com">Email</a>
+-- <a href="https://www.linkedin.com/in/sriram-ravi/">LinkedIn</a>
