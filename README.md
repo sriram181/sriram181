@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there!
+
+I am Sriram Ravi and I work in the field of embedded systems. I like playing with sockets and networks.
+
+Currently, I am doing my Masters specialising in Computer Engineering, Embedded systems.
+
 
 <!--
 **sriram181/sriram181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
